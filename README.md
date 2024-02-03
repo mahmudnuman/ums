@@ -3,26 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>User Management System (UMS) - Installation Guide</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-
-        h1, h2, h3 {
-            color: #333;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        li {
-            margin-bottom: 10px;
-        }
-    </style>
 </head>
 <body>
 
